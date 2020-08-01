@@ -7,14 +7,14 @@ function App() {
 		<div className='App'>
 			<header className='App-header'>
 				<img src={logo} className='App-logo' alt='logo' />
-				<p>THIS IS A REACT APP FOR COMPLETE CODING</p>
+				<p>This is a react app for complete coding</p>
 				<a
 					className='App-link'
 					href='https://codifyme.github.io/AWSome-deploy-react/'
 					target='_blank'
 					rel='noopener noreferrer'
 				>
-					LEARN SERVELESS
+					Learn Serveless
 				</a>
 			</header>
 		</div>
